@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="permission_rationale">Gallery needs access to photos and videos to display your media.</string>
+    <string name="vault_locked">Vault Locked</string>
+    <string name="vault_unlocked">Vault Unlocked</string>
+    <string name="trash_auto_delete">Items in trash are deleted after 30 days.</string>
+    <string name="edit_unsaved">Discard changes?</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="set_as_wallpaper">Set as Wallpaper</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="restore">Restore</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+</resources>
