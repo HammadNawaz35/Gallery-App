@@ -1,4 +1,4 @@
-# 📸 GalleryApp — Play-Store Level Android Gallery
+# 📸 GalleryApp 
 
 A production-ready Android Gallery application built with **Jetpack Compose + Kotlin**, targeting **Android SDK 35 (Android 15)**.
 
